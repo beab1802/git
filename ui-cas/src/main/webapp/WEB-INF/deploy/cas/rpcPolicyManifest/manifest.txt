@@ -1,0 +1,3 @@
+# Module cas
+# RPC service class, partial path of RPC policy file
+com.gwtplatform.dispatch.shared.DispatchService, 1F3606D5761F7E9633CBE7F10C0F6C56.gwt.rpc
